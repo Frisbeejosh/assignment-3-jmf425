@@ -1,0 +1,19 @@
+---
+title: "index"
+author: "josh felton"
+date: "2024-09-17"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#oiiii - this is my title innit 
+
+find josh's github (and personal website) [here](https://github.com/Frisbeejosh/) <br>
+you can find hannah's github [here!!](https://github.com/hmz25) <br>
+
+I am obssed with 35mm film photography at the moment! I am keeping my eyes out for a camera for Hannah as well as she wants to eschew disposables for a point and shoot cam like this minolta supreme zoom! <br>
+
+![I cant wait for the leaves be in peak color!](img/IMG_3704)
