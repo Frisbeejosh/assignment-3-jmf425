@@ -1,7 +1,5 @@
 ---
-title: "index"
-author: "josh felton"
-date: "2024-09-17"
+title: "welcome govna!"
 output: html_document
 ---
 
@@ -9,11 +7,15 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# oiiii - this is my title innit 
+# oiiii - this is my title innit <br>
+<br> 
+<br> 
 
-find josh's github (and personal website) [here](https://github.com/Frisbeejosh/) <br>
-you can find hannah's github [here!!](https://github.com/hmz25) <br>
+- find josh's github (and personal website) [here](https://github.com/Frisbeejosh/) <br>
+- you can find hannah's github [here!!](https://github.com/hmz25) <br>
+<br> 
+<br> 
 
-I am obsessed with 35mm film photography at the moment! I am keeping my eyes out for a camera for Hannah as well as she wants to eschew disposables for a point and shoot cam like this minolta supreme zoom! <br>
+I am obsessed with 35mm film photography at the moment! Hannah shamelessly plugged a shot of mine on her assignment [here](https://hmz25.github.io/assignment-3-hmz25/). I am keeping my eyes out for a camera for Hannah as well as she wants to eschew disposables for a point and shoot cam like this minolta supreme zoom! <br>
 
 ![I cant wait for the leaves be in peak color!](img/IMG_3704.jpg)
